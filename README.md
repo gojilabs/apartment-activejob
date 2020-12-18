@@ -7,7 +7,7 @@ ActiveJob support for Apartment
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'apartment-activejob'
+gem 'apartment-activejob', github: 'gojilabs/apartment-activejob'
 ```
 
 And then execute:
